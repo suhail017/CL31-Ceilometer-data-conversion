@@ -1,0 +1,5 @@
+"cl31.utep.lst"	:arqin = file that contains data filenames max. 128 chararcters
+"ceil.utep"	 	:clixo = output file name
+.FALSE.				:gera.raw = if true, saves raw data in decimal units
+5				:iper = avg. period in min.
+.FALSE.                  	:verbose = prints several stuff
